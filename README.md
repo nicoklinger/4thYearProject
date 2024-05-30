@@ -6,6 +6,8 @@ Fluent code: Python code to automatically execute Ansys Fluent simulations and v
 
 Electronics: PCB schematic and details.
 
+Position tracking: algorithm for IMU position tracking.
+
 
 # UCL Mechanical Engineering 2023-24
 
